@@ -23,13 +23,13 @@
 ## Палубы
 
 ### Палуба 1 — Оперативная
-<img src="media/800px-NSV_Sierra_Deck_1_Bez_fona.png" />
+<img src="../media/800px-NSV_Sierra_Deck_1_Bez_fona.png" />
 
 ### Палуба 2 — Жилая
-<img src="media/800px-NSV_Sierra_Deck_2_Bez_fona.png" />
+<img src="../media/800px-NSV_Sierra_Deck_2_Bez_fona.png" />
 
 ### Палуба 3 — Инженерная
-<img src="media/800px-NSV_Sierra_Deck_3_Bez_fona.png" />
+<img src="../media/800px-NSV_Sierra_Deck_3_Bez_fona.png" />
 
 ### Палуба 4 — Лётная
-<img src="media/800px-NSV_Sierra_Deck_4.png" />
+<img src="../media/800px-NSV_Sierra_Deck_4.png" />
